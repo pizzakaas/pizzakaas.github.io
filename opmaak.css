@@ -1,3 +1,4 @@
+/*Dit is de opmaak van mijn website */
 ul {
     list-style-type: none;
     margin: 0;
@@ -18,7 +19,7 @@ ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
+  /* De achtergrond van de knopjes wordt kleur #111 (zwart) als je eroverheen gaat met je muis */
   li a:hover {
     background-color: #111;
   }
