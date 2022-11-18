@@ -25,3 +25,8 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+  /*De achtergrond van mijn website wordt beige */
+body{
+  background-color: beige;
+}
