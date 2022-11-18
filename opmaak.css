@@ -1,4 +1,5 @@
 /*Dit is de opmaak van mijn website */
+/*Hier wordt de standaardkleur van de hokjes bepaald. In dit geval is dit #333 */
 ul {
     list-style-type: none;
     margin: 0;
@@ -6,11 +7,12 @@ ul {
     overflow: hidden;
     background-color: #333;
   }
-  
+  /*Hier staat dat alle hokjes links van het scherm gaan staan */
   li {
     float: left;
   }
-  
+  /*Hier wordt de kleur van de letters bepaald. De letters zijn wit. 
+  De letters komen in het midden van alle knopjes te staan. */
   li a {
     display: block;
     color: white;
